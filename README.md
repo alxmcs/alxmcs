@@ -8,7 +8,7 @@ Mostly <img src= "https://user-images.githubusercontent.com/70561974/202461810-8
 
 ## A little more about my work <img src="https://media0.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="30">
 
-[<img src= "https://ssau.ru/favicon.ico" width = 16>  University profile](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
+[<img src= "https://ssau.ru/favicon.ico" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
 
 [<img src= "https://access.clarivate.com/favicon.ico" width = 16>  Web of Science profile](https://www.webofscience.com/wos/author/record/1479245)  
 [<img src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Scopus_favicon.png" width = 16>  Scopus profile](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57203680652)  
