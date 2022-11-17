@@ -4,10 +4,21 @@
 Software Engineer at [Geosamara](https://samis.geosamara.ru/)  
 Researcher at [Samara University](https://ssau.ru/english)  
 
-## Tools I use Most often
+## Tools I Use Most Often
 ### Languages
+<a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 ### Databases
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
 ### Frameworks and Libraries
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
 ## A little more about my work <img src="https://media0.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="30">
 
 [<img src= "https://ssau.ru/favicon.ico" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
