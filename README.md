@@ -1,9 +1,9 @@
-## Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
 Software Engineer at [Geosamara](https://samis.geosamara.ru/)  
 Researcher at [Samara University](https://ssau.ru/english)  
 
-## Tools I Use Most Often
+## Tools I Use Most Often <img src="https://media2.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="50"> 
 
 <details>
   <summary>Languages</summary>
@@ -36,7 +36,7 @@ Researcher at [Samara University](https://ssau.ru/english)
   <br>
 </details>
 
-## A little more about my work <img src="https://media0.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="30">
+## A little more about my work <img src="https://media0.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="50">
 
 [<img src= "https://ssau.ru/favicon.ico" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
 
