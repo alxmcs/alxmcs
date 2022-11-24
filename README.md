@@ -49,3 +49,11 @@ Researcher at [Samara University](https://ssau.ru/english)
      <p><a href="https://www.elibrary.ru/author_items.asp?authorid=1015349"><img src= "https://www.elibrary.ru/favicon.ico" width = 16> Elibrary profile</a></p>  
   <br>
 </details>
+
+<details>
+  <summary>Some news articles related to my projects</summary>
+  <br>
+  <p><a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
+  <p><a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About project that I've worked on</a></p>
+  <br>
+</details>
