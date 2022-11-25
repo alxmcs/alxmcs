@@ -54,6 +54,7 @@ Researcher at [Samara University](https://ssau.ru/english)
   <summary>Some news articles related to my projects</summary>
   <br>
   <p><a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
-  <p><a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About project that I've worked on</a></p>
+  <p><a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project that I've worked on</a></p>
+  <p><a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project that I've worked on</a></p>
   <br>
 </details>
