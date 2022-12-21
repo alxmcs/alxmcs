@@ -1,10 +1,11 @@
-## Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+### Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<hr>
 
 Software Engineer at [Geosamara](https://samis.geosamara.ru/)  
 Researcher at [Samara University](https://ssau.ru/english)  
 
-## Tools I Use Most Often <img src="https://media2.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="50"> 
-
+### Tools I Use Most Often <img src="https://media2.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="50"> 
+<hr>
 <details>
   <summary>Languages</summary>
   <br>
@@ -36,25 +37,26 @@ Researcher at [Samara University](https://ssau.ru/english)
   <br>
 </details>
 
-## A little more about my work <img src="https://media0.giphy.com/media/37oQRyajqjaeBJ3lC6/giphy.gif" width="50">
+### A little more about my work <img src="https://i.giphy.com/media/jNNUsQaAx0myWAXw1h/giphy.webp" width="60">
+<hr> 
 
 [<img src= "https://ssau.ru/favicon.ico" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
 
 <details>
-  <summary>Published papers</summary>
+  <summary>Published journal articles</summary>
   <br>
-     <p><a href="https://www.webofscience.com/wos/author/record/1479245"><img src= "https://access.clarivate.com/favicon.ico" width = 16> Web of Science profile</a></p>    
-     <p><a href="https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57203680652"><img src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Scopus_favicon.png" width = 16> Scopus profile</a></p>  
-     <p><a href="https://scholar.google.com/citations?user=bU9kmXgAAAAJ&hl=ru"><img src= "https://scholar.google.com/favicon.ico" width = 16> Google Scholar profile</a></p>  
+  <p><a href="https://www.webofscience.com/wos/author/record/1479245"><img src= "https://access.clarivate.com/favicon.ico" width = 16> Web of Science profile</a></p>
+     <p><a href="https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57203680652"><img src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Scopus_favicon.png" width = 16> Scopus profile</a></p>
+     <p><a href="https://scholar.google.com/citations?user=bU9kmXgAAAAJ&hl=ru"><img src= "https://scholar.google.com/favicon.ico" width = 16> Google Scholar profile</a></p>
      <p><a href="https://www.elibrary.ru/author_items.asp?authorid=1015349"><img src= "https://www.elibrary.ru/favicon.ico" width = 16> Elibrary profile</a></p>  
   <br>
 </details>
 
 <details>
-  <summary>Some news articles related to my projects</summary>
+  <summary>A few news articles related to project I've worked on</summary>
   <br>
   <p><a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
-  <p><a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project that I've worked on</a></p>
-  <p><a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project that I've worked on</a></p>
+  <p><a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project I was involved in</a></p>
+  <p><a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project that I was involved in</a></p>
   <br>
 </details>
