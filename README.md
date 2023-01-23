@@ -62,6 +62,6 @@
     <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: <a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: <a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project I was involved in</a></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:seedling: <a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project that I was involved   in</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:seedling: <a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project I was involved   in</a></p>
   </details>
 </details>
