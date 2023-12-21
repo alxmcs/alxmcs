@@ -1,9 +1,9 @@
 <details>
 <summary>Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></summary>
   <hr>
-  <p>&nbsp;&nbsp;&nbsp;:books: Phd in Computer Science</p>  
-  <p>&nbsp;&nbsp;&nbsp;:globe_with_meridians: Software Engineer at <a href="https://samis.geosamara.ru">Geosamara</a></p>  
-  <p>&nbsp;&nbsp;&nbsp;:computer: Researcher/lecturer at <a href="https://ssau.ru/english">Samara University</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :books: Phd in Computer Science</p>  
+  <p>&nbsp;&nbsp;&nbsp; :globe_with_meridians: Software Engineer at <a href="https://samis.geosamara.ru">Geosamara</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :computer: Researcher/lecturer at <a href="https://ssau.ru/english">Samara University</a></p>  
 </details>
 
 <details>
@@ -61,8 +61,8 @@
   <details>
   <summary>&nbsp;&nbsp;&nbsp;A few news articles related to project I've worked on</summary>
     <br>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: <a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:earth_africa: <a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project I was involved in</a></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:seedling: <a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project I was involved   in</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: <a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: <a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project I was involved in</a></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :seedling: <a href="https://rg.ru/2020/02/12/reg-pfo/samarskie-uchenye-sozdali-programmu-kotoraia-prognoziruet-urozhaj.html">About agricultural project I was involved   in</a></p>
   </details>
 </details>
