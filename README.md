@@ -12,35 +12,48 @@
   <details>
     <summary>&nbsp;&nbsp;&nbsp;Languages</summary>
     <br>
-       <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+       <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
        <a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <br>
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;&nbsp;Databases</summary>
+    <summary>&nbsp;&nbsp;&nbsp;Databases and Storages</summary>
     <br>
-       <a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
        <a><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
        <a><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-       <a><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+       <a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+       <a><img src="https://img.shields.io/badge/MinIO-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white"></a>
     <br>
   </details>
 
   <details>
-    <summary>&nbsp;&nbsp;&nbsp;Frameworks and Libraries</summary>
+    <summary>&nbsp;&nbsp;&nbsp;Frameworks and Platforms</summary>
     <br>
         <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
         <a><img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"></a>
-        <a><img src="https://img.shields.io/badge/devexpress-%23FF7200.svg?style=for-the-badge&logo=devexpress&logoColor=white"></a>
+        <a><img src="https://img.shields.io/badge/devexpress-%23FF7200.svg?style=for-the-badge&logo=devexpress&logoColor=white"></a> 
+        <a><img src="https://img.shields.io/badge/abp%20framework-%23b84297.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQ4y5VTwU0EMQxMCVtCOmA7IEL8uQ5uO1g6yD75GQmJfVLC/bgTn5SwH/4pYUsIzmoMQ9h7EGkkR/aM7Th2rjmllF4hilx+zqJ4U3h37aizUwRFVKyKE+wIe4VYFe/2BARZagUH3CsxwTZxq6hjsge5YkJQxv1E7VTfYJUwOSLYyhyRUSj7I4kI7OBANAEjT1RqIqKJeCQThyATyMi2CZ3v5/AeXg9EDCCO1pqDI1K/2xQq+XI3l4pzeAkQN6JVXVoBc+TfArOnzKkVyFAdWaCOaYkf/efT5Ubt56b3I+IWm/8Kp5DAQD/RSBPFblU7ejQhR4b9AKKnKkZ8tvj9tWmuR/zChAoSprTSGwx/9gJ7sNC8e1oq2alCri2TUM//W6advVjoETOIt238FynmC3CroEc3AAAAAElFTkSuQmCC"></a> 
+    <br>
+  </details>
+  <details>
+    <summary>&nbsp;&nbsp;&nbsp;ML and DL</summary>
+    <br>
         <a><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-        <a><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
         <a><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
         <a><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
         <a><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
     <br>
-  </details>
+    </details>
+      <details>
+    <summary>&nbsp;&nbsp;&nbsp;Deploy</summary>
+    <br>
+    <a><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/yandex%20cloud-%235282FF.svg?style=for-the-badge&logo=yandexcloud&logoColor=white"></a>
+    <br>
+    </details>
 </details>
 
 <details>
