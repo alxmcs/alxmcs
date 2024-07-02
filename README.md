@@ -60,7 +60,7 @@
 <summary>A little more about my work <img src="https://i.giphy.com/media/jNNUsQaAx0myWAXw1h/giphy.webp" width="50"></summary>
 <hr> 
 
-&nbsp;&nbsp;&nbsp;[<img src= "https://ssau.ru/favicon.ico" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
+&nbsp;&nbsp;&nbsp;[<img src= "https://github.com/alxmcs/alxmcs/assets/70561974/85f0efa4-7fba-4f4f-a133-9c13ce080186" width = 16>  University page](https://ssau.ru/english/staff/335824546-maksimov-aleksei-i/publ)  
 
   <details>
     <summary>&nbsp;&nbsp;&nbsp;Published journal articles</summary>
