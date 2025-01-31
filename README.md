@@ -1,9 +1,10 @@
 <details>
 <summary>Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></summary>
   <hr>
-  <p>&nbsp;&nbsp;&nbsp; :books: Phd in Computer Science</p>  
-  <p>&nbsp;&nbsp;&nbsp; :globe_with_meridians: Software Engineer at <a href="https://samis.geosamara.ru">Geosamara</a></p>  
-  <p>&nbsp;&nbsp;&nbsp; :computer: Researcher/lecturer at <a href="https://ssau.ru/english">Samara University</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :mortar_board: Phd in Computer Science</p>  
+  <p>&nbsp;&nbsp;&nbsp; :globe_with_meridians: Software Engineer at <a href="https://ksdm.geosamara.ru/#rec825295810">Samis</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :computer: Researcher&lecturer at <a href="https://ssau.ru/english">Samara University</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :books: Associate professor at <a href="https://www.sseu.ru/en/">Samara State University of Economics</a></p>  
 </details>
 
 <details>
