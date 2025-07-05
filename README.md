@@ -2,9 +2,8 @@
 <summary>Hi there, I'm Alekseq <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></summary>
   <hr>
   <p>&nbsp;&nbsp;&nbsp; :mortar_board: Phd in Computer Science</p>  
-  <p>&nbsp;&nbsp;&nbsp; :globe_with_meridians: Software Engineer at <a href="https://ksdm.geosamara.ru/#rec825295810">Samis</a></p>  
-  <p>&nbsp;&nbsp;&nbsp; :computer: Researcher&lecturer at <a href="https://ssau.ru/english">Samara University</a></p>  
-  <p>&nbsp;&nbsp;&nbsp; :books: Associate professor at <a href="https://www.sseu.ru/en/">Samara State University of Economics</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :computer: Lead Software Engineer at <a href="https://samis.geosamara.ru/">Samis</a></p>  
+  <p>&nbsp;&nbsp;&nbsp; :books: Associate professor & researcher at <a href="https://ssau.ru/english">Samara University</a></p>  
 </details>
 
 <details>
@@ -73,7 +72,7 @@
   </details>
 
   <details>
-  <summary>&nbsp;&nbsp;&nbsp;A few news articles related to project I've worked on</summary>
+  <summary>&nbsp;&nbsp;&nbsp;A few news articles related to projects I've worked on</summary>
     <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: <a href="https://ria.ru/20211215/samarskiy_universitet-1763692476.html">About my thesis</a></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: <a href="https://d-russia.ru/pervoe-mesto-v-nominacii-gosudarstvennoe-i-municipalnoe-upravlenie-kontrolno-nadzornaja-dejatelnost-konkursa-it-proektov-foruma-prof-it-2022-zanjala-samarskaja-oblast.html">About ERS monitoring project I was involved in</a></p>
